@@ -1,7 +1,7 @@
 # StreamAnalytics
 
 Stream Analytics Collector permette di collezionare metadati sugli stream in corso in
-un’applicazione tramite l’API di Wowza Streaming Engine.
+un’applicazione tramite l’API di Wowza Streaming Engine (https://www.wowza.com/docs/statistics-query-examples) e di salvarli in un file di log.
 
 ## Come utilizzarlo
 
